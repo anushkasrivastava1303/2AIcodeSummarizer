@@ -1,6 +1,4 @@
-Certainly! Below is a simple README.md file that provides instructions on how to run your Flask application locally. You can customize it further based on your specific project details:
 
-```markdown
 # Code Summarization Web App
 
 This web application uses Flask and the Hugging Face Transformers library to provide code summarization using the Codet5 model.
