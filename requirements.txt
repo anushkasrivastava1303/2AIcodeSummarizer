@@ -1,0 +1,10 @@
+Flask==2.0.1
+Flask-WTF==0.15.1
+Werkzeug==2.0.1
+gunicorn==20.1.0  # Optional, for production server
+Jinja2==3.0.1
+WTForms==2.3.3
+nltk==3.6.5  # For text processing, tokenization, and possibly summarization
+transformers==4.11.3  # For using machine learning models (e.g., Hugging Face models)
+torch==1.9.1  # Required for running PyTorch-based models
+requests==2.26.0  # For handling API requests if needed
